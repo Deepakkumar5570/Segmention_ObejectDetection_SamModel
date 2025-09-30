@@ -45,7 +45,12 @@ Create virtual environment
 ##
 🖼️ Demo / GIF
 
-You can add a GIF or screenshot in your README like this:
+| <img src="seg1.png" width="250"/> | <img src="seg.png" width="250"/> |
+| <img src="obj.png" width="250"/> | <img src="obj1.png" width="250"/> |
+| <img src="det.png" width="250"/> | <img src="det1.png" width="250"/> |
+
+
+
 
 
 ##
