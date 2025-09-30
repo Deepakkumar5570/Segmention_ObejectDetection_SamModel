@@ -7,7 +7,7 @@ This project demonstrates **object detection and segmentation** using state-of-t
  <img src="seg1.png" width="250"/>     <img src="seg.png" width="250"/>
 ## Object Detection 
 <img src="obj1.png" width="350"/> | <img src="obj.png" width="350"/>
-## Object detection 
+## Object Segmentation 
 
  <img src="det.png" width="250"/> | <img src="det1.png" width="250"/> 
 
