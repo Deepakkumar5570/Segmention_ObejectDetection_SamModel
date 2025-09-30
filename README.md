@@ -47,7 +47,6 @@ Create virtual environment
 
 You can add a GIF or screenshot in your README like this:
 
-![Panoptic Segmentation Demo](https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif)
 
 ##
 💡 Usage
