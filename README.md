@@ -1,6 +1,17 @@
 # 🖼️ Panoptic Segmentation & Object Detection
 
 This project demonstrates **object detection and segmentation** using state-of-the-art models including **DETR**, **SAM**, and **SAM2**. The notebook (`.ipynb`) contains end-to-end code for panoptic segmentation and object detection tasks.
+##
+🖼️ Demo / GIF
+## Segmentation Result
+ <img src="seg1.png" width="250"/>     <img src="seg.png" width="250"/>
+## Object Detection 
+<img src="obj1.png" width="350"/> | <img src="obj.png" width="350"/>
+## Object detection 
+
+ <img src="det.png" width="250"/> | <img src="det1.png" width="250"/> 
+
+
 
 ---
 
@@ -42,16 +53,6 @@ Create virtual environment
     python -m venv venv
     source venv/bin/activate  # Linux / Mac
     venv\Scripts\activate     # Windows
-##
-🖼️ Demo / GIF
-
-| <img src="seg1.png" width="250"/> | <img src="seg.png" width="250"/> |
-| <img src="obj.png" width="250"/> | <img src="obj1.png" width="250"/> |
-| <img src="det.png" width="250"/> | <img src="det1.png" width="250"/> |
-
-
-
-
 
 ##
 💡 Usage
